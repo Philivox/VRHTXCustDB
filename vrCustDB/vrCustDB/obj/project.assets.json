@@ -11500,23 +11500,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\FAM GOTCHU BISH\\.nuget\\packages\\": {},
+    "C:\\Users\\Andy\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FAM GOTCHU BISH\\Documents\\GitHub\\VRHTXCustDB\\vrCustDB\\vrCustDB\\vrCustDB.csproj",
+      "projectUniqueName": "C:\\Users\\Andy\\Documents\\GitHub\\VRHTXCustDB\\vrCustDB\\vrCustDB\\vrCustDB.csproj",
       "projectName": "vrCustDB",
-      "projectPath": "C:\\Users\\FAM GOTCHU BISH\\Documents\\GitHub\\VRHTXCustDB\\vrCustDB\\vrCustDB\\vrCustDB.csproj",
-      "packagesPath": "C:\\Users\\FAM GOTCHU BISH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FAM GOTCHU BISH\\Documents\\GitHub\\VRHTXCustDB\\vrCustDB\\vrCustDB\\obj\\",
+      "projectPath": "C:\\Users\\Andy\\Documents\\GitHub\\VRHTXCustDB\\vrCustDB\\vrCustDB\\vrCustDB.csproj",
+      "packagesPath": "C:\\Users\\Andy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Andy\\Documents\\GitHub\\VRHTXCustDB\\vrCustDB\\vrCustDB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\FAM GOTCHU BISH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Andy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
