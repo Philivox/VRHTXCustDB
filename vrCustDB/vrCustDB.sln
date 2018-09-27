@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vrCustDB", "vrCustDB\vrCustDB.csproj", "{CE722F05-D44D-484D-8133-409916C8907E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vrCustDB", "vrCustDB\vrCustDB.csproj", "{CE722F05-D44D-484D-8133-409916C8907E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositories", "Repositories", "{0345DA27-F968-42C1-A991-417E5DD33AC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerRepository.Service", "CustomerRepository.Service\CustomerRepository.Service.csproj", "{1EEAE7C4-4819-48D4-9AAB-28706090140E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +19,16 @@ Global
 		{CE722F05-D44D-484D-8133-409916C8907E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE722F05-D44D-484D-8133-409916C8907E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE722F05-D44D-484D-8133-409916C8907E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EEAE7C4-4819-48D4-9AAB-28706090140E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EEAE7C4-4819-48D4-9AAB-28706090140E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EEAE7C4-4819-48D4-9AAB-28706090140E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EEAE7C4-4819-48D4-9AAB-28706090140E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1EEAE7C4-4819-48D4-9AAB-28706090140E} = {0345DA27-F968-42C1-A991-417E5DD33AC1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C8711A7D-42B0-45C4-9707-7B77B92A6305}
